@@ -1,76 +1,6 @@
 {
   "cryptos": [
     {
-      "id": "BTC",
-      "currency": "BTC",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btc.svg",
-      "status": "active",
-      "price": "31655.79533396",
-      "price_date": "2021-06-21T00:00:00Z",
-      "price_timestamp": "2021-06-21T21:59:00Z",
-      "circulating_supply": "18740131",
-      "max_supply": "21000000",
-      "market_cap": "593233751468",
-      "market_cap_dominance": "0.4314",
-      "num_exchanges": "384",
-      "num_pairs": "60570",
-      "num_pairs_unmapped": "5202",
-      "first_candle": "2011-08-18T00:00:00Z",
-      "first_trade": "2011-08-18T00:00:00Z",
-      "first_order_book": "2017-01-06T00:00:00Z",
-      "rank": "1",
-      "rank_delta": "0",
-      "high": "63498.43724904",
-      "high_timestamp": "2021-04-13T00:00:00Z",
-      "1d": {
-        "volume": "55723727804.04",
-        "price_change": "-3951.61115207",
-        "price_change_pct": "-0.1110",
-        "volume_change": "17075122937.88",
-        "volume_change_pct": "0.4418",
-        "market_cap_change": "-74031456021.82",
-        "market_cap_change_pct": "-0.1109"
-      },
-      "7d": {
-        "volume": "288942515570.42",
-        "price_change": "-8840.49598465",
-        "price_change_pct": "-0.2183",
-        "volume_change": "-54370449623.06",
-        "volume_change_pct": "-0.1584",
-        "market_cap_change": "-165461958097.94",
-        "market_cap_change_pct": "-0.2181"
-      },
-      "30d": {
-        "volume": "1427634059051.81",
-        "price_change": "-5950.32170988",
-        "price_change_pct": "-0.1582",
-        "volume_change": "-861743623509.35",
-        "volume_change_pct": "-0.3764",
-        "market_cap_change": "-110515841055.73",
-        "market_cap_change_pct": "-0.1570"
-      },
-      "365d": {
-        "volume": "16638495550276.88",
-        "price_change": "22334.56693876",
-        "price_change_pct": "2.3961",
-        "volume_change": "6316925720561.50",
-        "volume_change_pct": "0.6120",
-        "market_cap_change": "421620848514.27",
-        "market_cap_change_pct": "2.4568"
-      },
-      "ytd": {
-        "volume": "11504636950108.27",
-        "price_change": "-1278.33443797",
-        "price_change_pct": "-0.0388",
-        "volume_change": "6879999594328.30",
-        "volume_change_pct": "1.4877",
-        "market_cap_change": "-18911041357.88",
-        "market_cap_change_pct": "-0.0309"
-      }
-    },
-    {
       "id": "ETH",
       "currency": "ETH",
       "symbol": "ETH",
@@ -207,6 +137,76 @@
         "volume_change_pct": "9.0808",
         "market_cap_change": "8807918123.59",
         "market_cap_change_pct": "8.9923"
+      }
+    },
+    {
+      "id": "BTC",
+      "currency": "BTC",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btc.svg",
+      "status": "active",
+      "price": "32476.52303284",
+      "price_date": "2021-06-22T00:00:00Z",
+      "price_timestamp": "2021-06-22T17:51:00Z",
+      "circulating_supply": "18740650",
+      "max_supply": "21000000",
+      "market_cap": "608631151375",
+      "market_cap_dominance": "0.4416",
+      "num_exchanges": "384",
+      "num_pairs": "60574",
+      "num_pairs_unmapped": "5203",
+      "first_candle": "2011-08-18T00:00:00Z",
+      "first_trade": "2011-08-18T00:00:00Z",
+      "first_order_book": "2017-01-06T00:00:00Z",
+      "rank": "1",
+      "rank_delta": "0",
+      "high": "63498.43724904",
+      "high_timestamp": "2021-04-13T00:00:00Z",
+      "1d": {
+        "volume": "65114111163.78",
+        "price_change": "193.40759330",
+        "price_change_pct": "0.0060",
+        "volume_change": "9120908157.21",
+        "volume_change_pct": "0.1629",
+        "market_cap_change": "3645568038.40",
+        "market_cap_change_pct": "0.0060"
+      },
+      "7d": {
+        "volume": "298954328363.16",
+        "price_change": "-7660.86393215",
+        "price_change_pct": "-0.1909",
+        "volume_change": "-31920741964.04",
+        "volume_change_pct": "-0.0965",
+        "market_cap_change": "-143372133843.60",
+        "market_cap_change_pct": "-0.1907"
+      },
+      "30d": {
+        "volume": "1391389530713.13",
+        "price_change": "-2263.03710803",
+        "price_change_pct": "-0.0651",
+        "volume_change": "-883690322354.53",
+        "volume_change_pct": "-0.3884",
+        "market_cap_change": "-41474555232.86",
+        "market_cap_change_pct": "-0.0638"
+      },
+      "365d": {
+        "volume": "16536137324329.72",
+        "price_change": "23341.51574082",
+        "price_change_pct": "2.5552",
+        "volume_change": "6059077306955.07",
+        "volume_change_pct": "0.5783",
+        "market_cap_change": "440439854431.74",
+        "market_cap_change_pct": "2.6187"
+      },
+      "ytd": {
+        "volume": "11557768913194.49",
+        "price_change": "-457.60673909",
+        "price_change_pct": "-0.0139",
+        "volume_change": "6827218633484.14",
+        "volume_change_pct": "1.4432",
+        "market_cap_change": "-3513641450.04",
+        "market_cap_change_pct": "-0.0057"
       }
     }
   ]
