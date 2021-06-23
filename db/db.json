@@ -3,12 +3,15 @@
   "users": [
     {
       "name": "Zeus",
-      "loggedIn": true,
+      "loggedIn": false,
       "id": 1,
       "watchlist": [
-        "BTC",
+        "PNK",
+        "TRU",
+        "JST",
+        "USDC",
         "ETH",
-        "USDT"
+        "OMG"
       ]
     },
     {
