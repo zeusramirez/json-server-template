@@ -3,6 +3,7 @@
   "users": [
     {
       "name": "Zeus",
+      "loggedIn": true,
       "id": 1,
       "watchlist": [
         "BTC",
@@ -12,6 +13,7 @@
     },
     {
       "name": "Ryan",
+      "loggedIn": false,
       "id": 2,
       "watchlist": [
         "BNB",
@@ -21,17 +23,37 @@
     },
     {
       "name": "Arthur",
+      "loggedIn": false,
       "watchlist": [],
       "id": 6
     },
     {
       "name": "Greg",
+      "loggedIn": false,
       "watchlist": [
         "BTC",
         "ETH",
         "HEX"
       ],
       "id": 7
+    },
+    {
+      "name": "Dan",
+      "loggedIn": false,
+      "watchlist": [
+        "BTC"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Frank",
+      "loggedIn": false,
+      "watchlist": [
+        "BTC",
+        "ETH",
+        "USDT"
+      ],
+      "id": 9
     }
   ]
 }
