@@ -1,96 +1,37 @@
 {
-  "cryptos": [
-    {
-      "id": "BTC",
-      "currency": "BTC",
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/btc.svg",
-      "status": "active",
-      "price": "32660.07140381",
-      "price_date": "2021-06-22T00:00:00Z",
-      "price_timestamp": "2021-06-22T19:39:00Z",
-      "circulating_supply": "18740700",
-      "max_supply": "21000000",
-      "market_cap": "612072600157",
-      "market_cap_dominance": "0.4431",
-      "num_exchanges": "384",
-      "num_pairs": "60573",
-      "num_pairs_unmapped": "5204",
-      "first_candle": "2011-08-18T00:00:00Z",
-      "first_trade": "2011-08-18T00:00:00Z",
-      "first_order_book": "2017-01-06T00:00:00Z",
-      "rank": "1",
-      "rank_delta": "0",
-      "high": "63498.43724904",
-      "high_timestamp": "2021-04-13T00:00:00Z",
-      "1d": {
-        "volume": "66163714699.66",
-        "price_change": "45.65709665",
-        "price_change_pct": "0.0014",
-        "volume_change": "9867192645.84",
-        "volume_change_pct": "0.1753",
-        "market_cap_change": "877464994.36",
-        "market_cap_change_pct": "0.0014"
-      },
-      "7d": {
-        "volume": "301032175460.76",
-        "price_change": "-7477.31556118",
-        "price_change_pct": "-0.1863",
-        "volume_change": "-29749982677.16",
-        "volume_change_pct": "-0.0899",
-        "market_cap_change": "-139933454541.32",
-        "market_cap_change_pct": "-0.1861"
-      },
-      "30d": {
-        "volume": "1392975771565.84",
-        "price_change": "-2079.48873706",
-        "price_change_pct": "-0.0599",
-        "volume_change": "-880711833227.04",
-        "volume_change_pct": "-0.3873",
-        "market_cap_change": "-38033106450.88",
-        "market_cap_change_pct": "-0.0585"
-      },
-      "365d": {
-        "volume": "16530285969453.70",
-        "price_change": "23525.06411179",
-        "price_change_pct": "2.5753",
-        "volume_change": "6061497970392.15",
-        "volume_change_pct": "0.5790",
-        "market_cap_change": "443881020028.50",
-        "market_cap_change_pct": "2.6391"
-      },
-      "ytd": {
-        "volume": "11554064463659.55",
-        "price_change": "-274.05836812",
-        "price_change_pct": "-0.0083",
-        "volume_change": "6825495389883.87",
-        "volume_change_pct": "1.4435",
-        "market_cap_change": "-72192668.06",
-        "market_cap_change_pct": "-0.0001"
-      }
-    }
-  ],
+  "cryptos": [],
   "users": [
     {
       "name": "Zeus",
-      "id": 1
+      "id": 1,
+      "watchlist": [
+        "BTC",
+        "ETH",
+        "USDT"
+      ]
     },
     {
       "name": "Ryan",
-      "id": 2
+      "id": 2,
+      "watchlist": [
+        "BNB",
+        "DOGE",
+        "ADA"
+      ]
     },
     {
-      "name": "Dave",
-      "id": 3
-    },
-    {
-      "name": "Kevin",
-      "id": 4
+      "name": "Arthur",
+      "watchlist": [],
+      "id": 6
     },
     {
       "name": "Greg",
-      "id": 5
+      "watchlist": [
+        "BTC",
+        "ETH",
+        "HEX"
+      ],
+      "id": 7
     }
   ]
 }
