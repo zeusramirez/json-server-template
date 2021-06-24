@@ -11,7 +11,8 @@
         "JST",
         "USDC",
         "ETH",
-        "OMG"
+        "OMG",
+        "SAFEGALAXY"
       ]
     },
     {
@@ -21,13 +22,20 @@
       "watchlist": [
         "BNB",
         "DOGE",
-        "ADA"
+        "ADA",
+        "GNC",
+        "OXY3S"
       ]
     },
     {
       "name": "Arthur",
       "loggedIn": false,
-      "watchlist": [],
+      "watchlist": [
+        "KSM",
+        "FTXTOKEN",
+        "ETH",
+        "BTC"
+      ],
       "id": 6
     },
     {
@@ -57,6 +65,17 @@
         "USDT"
       ],
       "id": 9
+    },
+    {
+      "name": "Betty",
+      "loggedIn": false,
+      "watchlist": [
+        "HEX",
+        "BTC",
+        "GNC",
+        "FOXY"
+      ],
+      "id": 10
     }
   ]
 }
