@@ -77,6 +77,14 @@
         "FOXY"
       ],
       "id": 10
+    },
+    {
+      "name": "Abbey",
+      "loggedIn": false,
+      "watchlist": [
+        "BNB"
+      ],
+      "id": 11
     }
   ]
 }
