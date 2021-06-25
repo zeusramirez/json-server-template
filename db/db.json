@@ -12,7 +12,8 @@
         "USDC",
         "ETH",
         "OMG",
-        "SAFEGALAXY"
+        "SAFEGALAXY",
+        "UNI"
       ]
     },
     {
@@ -20,11 +21,11 @@
       "loggedIn": false,
       "id": 2,
       "watchlist": [
-        "BNB",
         "DOGE",
-        "ADA",
-        "GNC",
-        "OXY3S"
+        "ENJ",
+        "ARRR",
+        "GUM",
+        "XYT"
       ]
     },
     {
@@ -82,9 +83,17 @@
       "name": "Abbey",
       "loggedIn": false,
       "watchlist": [
-        "BNB"
+        "BTC",
+        "ETH",
+        "USDT"
       ],
       "id": 11
+    },
+    {
+      "name": "John",
+      "loggedIn": false,
+      "watchlist": [],
+      "id": 12
     }
   ]
 }
