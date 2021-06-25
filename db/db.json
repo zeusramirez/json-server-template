@@ -1,5 +1,4 @@
 {
-  "cryptos": [],
   "users": [
     {
       "name": "Zeus",
@@ -7,7 +6,6 @@
       "id": 1,
       "watchlist": [
         "PNK",
-        "TRU",
         "USDC",
         "ETH",
         "OMG",
@@ -23,7 +21,8 @@
         "ENJ",
         "ARRR",
         "GUM",
-        "XYT"
+        "XYT",
+        "BTC"
       ]
     },
     {
@@ -93,6 +92,16 @@
       "loggedIn": false,
       "watchlist": [],
       "id": 12
+    },
+    {
+      "name": "Larry",
+      "loggedIn": false,
+      "watchlist": [
+        "BNB",
+        "USDC",
+        "DOT"
+      ],
+      "id": 13
     }
   ]
 }
