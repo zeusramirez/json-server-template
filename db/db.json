@@ -8,11 +8,9 @@
       "watchlist": [
         "PNK",
         "TRU",
-        "JST",
         "USDC",
         "ETH",
         "OMG",
-        "SAFEGALAXY",
         "UNI"
       ]
     },
@@ -36,7 +34,8 @@
         "FTXTOKEN",
         "ETH",
         "BTC",
-        "USDT"
+        "USDT",
+        "SPARTA2"
       ],
       "id": 6
     },
