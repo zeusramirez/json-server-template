@@ -14,7 +14,7 @@
     },
     {
       "name": "Ryan",
-      "loggedIn": false,
+      "loggedIn": true,
       "id": 2,
       "watchlist": [
         "DOGE",
